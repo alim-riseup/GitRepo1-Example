@@ -1,2 +1,2 @@
 B Test
-UserA-Added a new line
+User1-Added a new line
